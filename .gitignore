@@ -129,3 +129,6 @@ docker-compose.override.yml
 *.swp
 *.swo
 *~
+
+######################
+my_note.txt
